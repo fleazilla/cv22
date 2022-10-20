@@ -1,0 +1,10 @@
+
+<html>
+<body>
+<form>
+<label>name:</label>
+<input type="text">
+<input type="submit">
+</form>
+</html>
+</body>
